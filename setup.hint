@@ -1,0 +1,3 @@
+category: Devel
+requires: linux-i686-glibc
+sdesc: "zlib for Linux i686 toolchain"

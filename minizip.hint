@@ -1,6 +1,7 @@
 category: Devel
-requires: linux-i686-glibc
-sdesc: "zlib for Linux i686 toolchain"
+requires: linux-i686-glibc linux-i686-zlib
+external-source: linux-i686-zlib
+sdesc: "minizip for Linux i686 toolchain"
 ldesc: "This package does NOT contain cygwin binaries.  Instead, it
 contains Linux i686 binaries.  It is for use with the
 linux-i686-gcc cross compiler, and installs into the
